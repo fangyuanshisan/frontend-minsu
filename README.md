@@ -1,4 +1,4 @@
-# webpack
+# prontend-minsu-b
 
 ## Project setup
 ```
